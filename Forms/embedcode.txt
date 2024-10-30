@@ -1,0 +1,21 @@
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "46621937",
+    formId: "20d7c081-3010-4259-8406-43841adb400f",
+    sfdcCampaignId: "7011G000000Kg7mQAC"
+  });
+</script>
+
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "46621937",
+    formId: "51a300ee-1a63-4c7a-8e1c-c51a97d83daf"
+  });
+</script>
+
+=CONCATENATE("<script charset='utf-8' type='text/javascript' src='//js.hsforms.net/forms/embed/v2.js'></script><script>hbspt.forms.create({region: 'na1', portalId: '46621937', formId: '", A2, "'});</script>")
+
